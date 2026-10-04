@@ -1,7 +1,3 @@
-# Aplicando-Desconto
-
-
-
 # Validador de Cupom de Desconto (Full Stack)
 
 Projeto prático desenvolvido para testar a integração entre um front-end (HTML5 e JavaScript) e um back-end (Python com Flask API).
